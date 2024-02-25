@@ -1,0 +1,1535 @@
+./code/machine_learning.R processed_data/l2_genus_41.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_43.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_44.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_45.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_46.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_47.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_48.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_49.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_50.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_51.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_52.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_53.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_54.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_55.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_56.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_57.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_58.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_60.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_61.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_62.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_63.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_64.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_65.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_66.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_67.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_68.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_69.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_70.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_71.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_72.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_73.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_74.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_75.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_76.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_77.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_78.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_79.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_80.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_81.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_82.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_83.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_84.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_85.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_86.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_87.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_88.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_89.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_90.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_91.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_92.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_93.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_94.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_95.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_96.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_97.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_98.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_99.Rds code/l2.R
+./code/machine_learning.R processed_data/l2_genus_100.Rds code/l2.R
+OpenBLAS blas_thread_init: pthread_create failed for thread 22 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: pthread_create failed for thread 1 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1024 current, 515122 max
+make: *** [Makefile:5: processed_data/l2_genus_86.Rds] Interrupt
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1024 current, 515122 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 2 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1024 current, 515122 max
+make: *** Waiting for unfinished jobs....
+make: *** [Makefile:5: processed_data/l2_genus_81.Rds] Interrupt
+make: *** [Makefile:5: processed_data/l2_genus_85.Rds] Interrupt
+OpenBLAS blas_thread_init: pthread_create failed for thread 2 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1024 current, 515122 max
+make: *** [Makefile:5: processed_data/l2_genus_89.Rds] Interrupt
+OpenBLAS blas_thread_init: pthread_create failed for thread 3 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: pthread_create failed for thread 1 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: pthread_create failed for thread 1 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1024 current, 515122 max
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1024 current, 515122 max
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1024 current, 515122 max
+make: *** [Makefile:5: processed_data/l2_genus_90.Rds] Interrupt
+OpenBLAS blas_thread_init: pthread_create failed for thread 4 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1024 current, 515122 max
+make: *** [Makefile:5: processed_data/l2_genus_88.Rds] Interrupt
+make: *** [Makefile:5: processed_data/l2_genus_91.Rds] Interrupt
+make: *** [Makefile:5: processed_data/l2_genus_93.Rds] Interrupt
+OpenBLAS blas_thread_init: pthread_create failed for thread 7 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1024 current, 515122 max
+make: *** [Makefile:5: processed_data/l2_genus_92.Rds] Interrupt
+OpenBLAS blas_thread_init: pthread_create failed for thread 8 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1024 current, 515122 max
+make: *** [Makefile:5: processed_data/l2_genus_94.Rds] Interrupt
+OpenBLAS blas_thread_init: pthread_create failed for thread 9 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1024 current, 515122 max
+make: *** [Makefile:5: processed_data/l2_genus_96.Rds] Interrupt
+OpenBLAS blas_thread_init: pthread_create failed for thread 10 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1024 current, 515122 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 1 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1024 current, 515122 max
+make: *** [Makefile:5: processed_data/l2_genus_95.Rds] Interrupt
+make: *** [Makefile:5: processed_data/l2_genus_97.Rds] Interrupt
+OpenBLAS blas_thread_init: pthread_create failed for thread 12 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: pthread_create failed for thread 1 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1024 current, 515122 max
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1024 current, 515122 max
+make: *** [Makefile:5: processed_data/l2_genus_99.Rds] Interrupt
+make: *** [Makefile:5: processed_data/l2_genus_98.Rds] Interrupt
+OpenBLAS blas_thread_init: pthread_create failed for thread 14 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1024 current, 515122 max
+make: *** [Makefile:5: processed_data/l2_genus_100.Rds] Interrupt
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - During startup - Warning message:
+Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - Setting LC_CTYPE failed, using "C" 
+Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - During startup - During startup - Warning message:
+Warning message:
+Warning message:
+Setting LC_CTYPE failed, using "C" 
+Setting LC_CTYPE failed, using "C" 
+Setting LC_CTYPE failed, using "C" 
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - Warning message:
+During startup - Setting LC_CTYPE failed, using "C" 
+Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - Warning message:
+During startup - Setting LC_CTYPE failed, using "C" 
+Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - During startup - Warning message:
+Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - Setting LC_CTYPE failed, using "C" 
+During startup - Warning message:
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - Setting LC_CTYPE failed, using "C" 
+Warning message:
+During startup - During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+Warning message:
+Warning message:
+Setting LC_CTYPE failed, using "C" 
+Setting LC_CTYPE failed, using "C" 
+Setting LC_CTYPE failed, using "C" 
+During startup - During startup - Warning message:
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - Setting LC_CTYPE failed, using "C" 
+Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - During startup - Warning message:
+Warning message:
+Setting LC_CTYPE failed, using "C" 
+Setting LC_CTYPE failed, using "C" 
+During startup - During startup - During startup - Warning message:
+Warning message:
+Warning message:
+Setting LC_CTYPE failed, using "C" 
+Setting LC_CTYPE failed, using "C" 
+During startup - Setting LC_CTYPE failed, using "C" 
+Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning:Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+ Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning:Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+ Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning:Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+ Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: Your system is mis-configured: '/etc/localtime' is not a symlink
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+Warning: It is strongly recommended to set envionment variable TZ to 'Asia/Hong_Kong' (or equivalent)
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+-- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+v ggplot2 3.3.5     v purrr   0.3.4
+v tibble  3.1.4     v dplyr   1.0.7
+v tidyr   1.1.3     v stringr 1.4.0
+v readr   2.0.1     v forcats 0.5.1
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+Rows: 188 Columns: 215
+Rows: 188 Columns: 215
+Rows: 188 Columns: 215
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 188 Columns: 215
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 188 Columns: 215
+Using 'Biosphare' as the outcome column.
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Using 'Biosphare' as the outcome column.
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+Rows: 188 Columns: 215
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Using 'Biosphare' as the outcome column.
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 188 Columns: 215
+Rows: 188 Columns: 215
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+Rows: 188 Columns: 215
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 188 Columns: 215
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+Rows: 188 Columns: 215
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Using 'Biosphare' as the outcome column.
+Rows: 188 Columns: 215
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Rows: 188 Columns: 215
+Using 'Biosphare' as the outcome column.
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Using 'Biosphare' as the outcome column.
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Training the model...
+Training the model...
+Using 'Biosphare' as the outcome column.
+Training the model...
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+Using 'Biosphare' as the outcome column.
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Rows: 188 Columns: 215
+Training the model...
+Using 'Biosphare' as the outcome column.
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Training the model...
+Rows: 188 Columns: 215
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+Using 'Biosphare' as the outcome column.
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+Rows: 188 Columns: 215
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+Training the model...
+Rows: 188 Columns: 215
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Using 'Biosphare' as the outcome column.
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+Training the model...
+Rows: 188 Columns: 215
+Rows: 188 Columns: 215
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+Using 'Biosphare' as the outcome column.
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+Training the model...
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Using 'Biosphare' as the outcome column.
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Using 'Biosphare' as the outcome column.
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 188 Columns: 215
+Training the model...
+-- Column specification --------------------------------------------------------
+Delimiter: "\t"
+chr   (1): Biosphare
+dbl (214): A31, Abeoformidae, Acantharea Group I, Acantharea Group II, Acant...
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Training the model...
+Training the model...
+Using 'Biosphare' as the outcome column.
+Training the model...
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Training the model...
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Training the model...
+Using 'Biosphare' as the outcome column.
+Training the model...
+Training the model...
+Training the model...
+Using 'Biosphare' as the outcome column.
+Training the model...
+Training the model...
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Training the model...
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Training the model...
+Loading required package: lattice
+Training the model...
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Using 'Biosphare' as the outcome column.
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Training the model...
+Using 'Biosphare' as the outcome column.
+Training the model...
+Using 'Biosphare' as the outcome column.
+Training the model...
+Using 'Biosphare' as the outcome column.
+Training the model...
+Training the model...
+Using 'Biosphare' as the outcome column.
+Training the model...
+Training the model...
+Training the model...
+Training the model...
+Loading required package: lattice
+Training the model...
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+Using 'Biosphare' as the outcome column.
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Loading required package: lattice
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+Using 'Biosphare' as the outcome column.
+
+Attaching package: 'caret'
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+Using 'Biosphare' as the outcome column.
+Loading required package: lattice
+Loading required package: lattice
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+Training the model...
+Training the model...
+Training the model...
+Training the model...
+Loading required package: lattice
+Training the model...
+Using 'Biosphare' as the outcome column.
+Training the model...
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+Training the model...
+Using 'Biosphare' as the outcome column.
+Using 'Biosphare' as the outcome column.
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+Training the model...
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+Training the model...
+Training the model...
+Loading required package: lattice
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+Loading required package: lattice
+Loading required package: lattice
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+Loading required package: lattice
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+
+Attaching package: 'caret'
+
+Loading required package: lattice
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+Loading required package: lattice
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+Loading required package: lattice
+
+Attaching package: 'caret'
+
+Loading required package: lattice
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+Loading required package: lattice
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+Loading required package: lattice
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+Loading required package: lattice
+
+Attaching package: 'caret'
+
+Loading required package: lattice
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+
+Attaching package: 'caret'
+
+The following object is masked from 'package:purrr':
+
+    lift
+
+Training complete.
+Finding feature importance...
+Training complete.
+Finding feature importance...
+Training complete.
+Finding feature importance...
+Training complete.
+Finding feature importance...
+Training complete.
+Finding feature importance...
+Training complete.
+Finding feature importance...
+Training complete.
+Finding feature importance...
+Training complete.
+Finding feature importance...
+Training complete.
+Training complete.
+Finding feature importance...
+Finding feature importance...
+Training complete.
+Finding feature importance...
+Training complete.
+Finding feature importance...
+Training complete.
+Training complete.
+Finding feature importance...
+Finding feature importance...
+Training complete.
+Training complete.
+Finding feature importance...
+Finding feature importance...
+Training complete.
+Training complete.
+Finding feature importance...
+Finding feature importance...
+Training complete.
+Finding feature importance...
+Training complete.
+Training complete.
+Finding feature importance...
+Finding feature importance...
+Training complete.
+Finding feature importance...
+Training complete.
+Training complete.
+Finding feature importance...
+Finding feature importance...
+Training complete.
+Training complete.
+Finding feature importance...
+Finding feature importance...
+Training complete.
+Finding feature importance...
+Training complete.
+Training complete.
+Finding feature importance...
+Training complete.
+Finding feature importance...
+Finding feature importance...
+Training complete.
+Finding feature importance...
+Training complete.
+Training complete.
+Finding feature importance...
+Finding feature importance...
+Training complete.
+Finding feature importance...
+Training complete.
+Training complete.
+Finding feature importance...
+Finding feature importance...
+Training complete.
+Finding feature importance...
+Training complete.
+Finding feature importance...
+Training complete.
+Finding feature importance...
+Training complete.
+Finding feature importance...
+Training complete.
+Training complete.
+Finding feature importance...
+Finding feature importance...
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.
+Feature importance complete.

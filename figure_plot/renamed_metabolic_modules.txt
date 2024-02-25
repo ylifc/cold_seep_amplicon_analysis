@@ -1,0 +1,13 @@
+feature	median	l_quartile	u_quartile
+Metabolic module1	0.67	0.67	0.67
+Metabolic module2	0.635	0.635	0.635
+Metabolic module3	0.575	0.575	0.575
+Metabolic module5	0.555	0.555	0.555
+Metabolic module4	0.555	0.555	0.555
+Metabolic module6	0.535	0.535	0.535
+Metabolic module7	0.535	0.535	0.535
+Metabolic module8	0.53	0.53	0.53
+Metabolic module9	0.515	0.515	0.515
+Metabolic module10	0.515	0.515	0.515
+Metabolic module12	0.5125	0.51125	0.51375
+Metabolic module11	0.5125	0.50125	0.52375
